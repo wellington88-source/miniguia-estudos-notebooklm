@@ -1,5 +1,5 @@
 # miniguia-estudos-notebooklm
-Para alimentar o NotebookLM e garantir respostas precisas, foram selecionadas as seguintes fontes abertas:
+Para alimentar o NotebookLM e garantir respostas precisas, foram selecionadas as seguintes fontes abertas: rust
 # Linguagem de Programação Rust
 
 > Repositório criado para o desafio de projeto da **DIO (Digital Innovation One)**: *Explorando a IA para Aprendizagem Ativa com NotebookLM*.
